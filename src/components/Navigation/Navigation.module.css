@@ -6,9 +6,9 @@
   justify-content: space-between;
 }
 
-.navigation ul{
+.navigation ul {
   display: flex;
   gap: 24px;
   list-style-type: none;
-  font-weight: 500;;
+  font-weight: 500;
 }
